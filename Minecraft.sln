@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44307B73-272A-4C40-B491-1AA593A50A39}"
 	ProjectSection(SolutionItems) = preProject
 		Minecraft.sln.DotSettings = Minecraft.sln.DotSettings
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{7DA53F36-DA3A-45AA-ACA3-ABF90393FC2D}"
